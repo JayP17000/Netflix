@@ -18,30 +18,6 @@ The Netflix Clone project is a web application designed to mimic the core functi
 - **APIs**: TMDb API for movie and TV show data
 - **Styling**: CSS
 
-## Project Structure
-
-netflix-clone/
-├── public/
-│ ├── index.html
-│ └── ...
-├── src/
-│ ├── components/
-│ │ ├── Header.js
-│ │ ├── MovieCard.js
-│ │ ├── MovieList.js
-│ │ └── ...
-│ ├── pages/
-│ │ ├── HomePage.js
-│ │ ├── LoginPage.js
-│ │ └── ...
-│ ├── App.js
-│ ├── index.js
-│ └── ...
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
-
 ## Installation
 
 To run the project locally, follow these steps:
@@ -50,4 +26,3 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://github.com/JayP17000/netflix.git
    cd netflix
-npm install
